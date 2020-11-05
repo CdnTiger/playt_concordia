@@ -23,7 +23,7 @@ var playt = {};
     
     playt.dice = [
         {   name: "d6",
-            include: 5,
+            include: 0,
             images: [
                 "dice/d6/dice-1-th.png",
                 "dice/d6/dice-2-th.png",
