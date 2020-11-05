@@ -17,7 +17,7 @@ var playt = {};
                 "cards/playing_cards/prefect4.png",
                 "cards/playing_cards/senator1.png",
                 "cards/playing_cards/senator2.png",
-            ]
+                ]
         }
     ];
     
